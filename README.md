@@ -1,5 +1,7 @@
 # Exploring the Relationship Between Housing Environment and Children's Lead Exposure
 
+If you want to read more details about this project, check this [personal blog post](https://seoeunhong.github.io/posts/Analysis-on-Housing-Environment-And-Children's-Lead-Exposure/) or this [Medium blog post](https://medium.com/@sun-hong/nyu-big-data-team-project-exploring-the-relationship-between-housing-environment-and-childrens-a23f3d6f79f7).
+
 ## 1. File Directories and Files
 
 ```
