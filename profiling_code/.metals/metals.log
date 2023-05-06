@@ -1,0 +1,70 @@
+2023.04.23 18:25:28 INFO  Started: Metals version 0.11.12 in workspace '/Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code' for client Visual Studio Code 1.77.3.
+Apr 23, 2023 6:25:28 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.16.3 by Redgate
+Apr 23, 2023 6:25:28 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+Apr 23, 2023 6:25:28 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+Apr 23, 2023 6:25:29 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFO: Database: jdbc:h2:file:/Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code/.metals/metals (H2 2.1)
+Apr 23, 2023 6:25:29 PM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory allAppliedMigrations
+INFO: Schema history table "PUBLIC"."flyway_schema_history" does not exist yet
+Apr 23, 2023 6:25:29 PM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.011s)
+Apr 23, 2023 6:25:29 PM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory create
+INFO: Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+Apr 23, 2023 6:25:29 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": << Empty Schema >>
+Apr 23, 2023 6:25:29 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "1 - Create tables"
+Apr 23, 2023 6:25:29 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "2 - Server discovery"
+Apr 23, 2023 6:25:29 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "3 - Jar symbols"
+Apr 23, 2023 6:25:29 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "4 - Fingerprints"
+Apr 23, 2023 6:25:29 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Successfully applied 4 migrations to schema "PUBLIC", now at version v4 (execution time 00:00.024s)
+2023.04.23 18:25:29 INFO  time: initialize in 0.34s
+2023.04.23 18:25:30 WARN  Build server is not auto-connectable.
+Apr 23, 2023 6:25:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+2023.04.23 18:25:30 WARN  no build tool detected in workspace '/Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.04.23 18:25:30 WARN  no build target for: /Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code/nicole/children_blood_lead_profile_before_clean.scala
+2023.04.23 18:25:32 INFO  no build target found for /Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code/nicole/children_blood_lead_profile_before_clean.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.23 18:25:32 WARN  no build target for: /Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code/seoeun/housing_con_data_profile_before_clean.scala
+Apr 23, 2023 6:25:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+2023.04.23 18:25:33 INFO  time: code lens generation in 3.01s
+Apr 23, 2023 6:26:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 55
+2023.04.23 18:26:26 WARN  no build target for: /Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code/seoeun/housing_con_data_profile_before_clean.scala
+2023.04.23 18:26:26 WARN  Using indexes to guess the definition of distinctCN
+2023.04.23 18:26:26 WARN  no build target for: /Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code/seoeun/housing_con_data_profile_before_clean.scala
+2023.04.23 18:26:26 WARN  no build target for: /Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code/seoeun/housing_con_data_profile_before_clean.scala
+2023.04.23 18:26:26 WARN  no build target for: /Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code/seoeun/housing_con_data_profile_before_clean.scala
+2023.04.23 18:26:27 WARN  no build target for: /Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code/seoeun/housing_con_data_profile_before_clean.scala
+2023.04.23 18:26:27 WARN  no build target for: /Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code/seoeun/housing_con_data_profile_before_clean.scala
+2023.04.23 18:26:27 WARN  no build target for: /Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code/seoeun/housing_con_data_profile_before_clean.scala
+2023.04.23 18:26:31 WARN  no build target for: /Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code/nicole/children_blood_lead_profile_before_clean.scala
+2023.04.23 18:26:36 WARN  no build target for: /Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code/nicole/children_blood_lead_profile_before_clean.scala
+2023.04.23 18:26:39 WARN  no build target for: /Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code/nicole&seoeun/economics_data_profile_before_clean.scala
+2023.04.23 18:27:39 WARN  no build target for: /Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code/nicole&seoeun/economics_data_profile_before_clean.scala
+2023.04.23 18:27:39 WARN  no build target for: /Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code/nicole&seoeun/economics_data_profile_before_clean.scala
+2023.04.23 18:27:39 WARN  no build target for: /Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code/nicole&seoeun/economics_data_profile_before_clean.scala
+2023.04.23 18:27:40 WARN  no build target for: /Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code/nicole&seoeun/economics_data_profile_before_clean.scala
+2023.04.23 18:27:40 WARN  no build target for: /Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code/nicole&seoeun/economics_data_profile_before_clean.scala
+2023.04.23 18:27:40 WARN  no build target for: /Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code/nicole&seoeun/economics_data_profile_before_clean.scala
+2023.04.23 18:38:24 WARN  no build target for: /Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code/nicole&seoeun/before_clean/economics_data_profile_before_clean.scala
+2023.04.23 18:38:50 WARN  no build target for: /Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code/nicole&seoeun/before_clean/economics_data_profile_before_clean.scala
+2023.04.23 18:38:50 WARN  no build target for: /Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code/nicole&seoeun/before_clean/economics_data_profile_before_clean.scala
+2023.04.23 18:38:51 WARN  no build target for: /Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code/nicole&seoeun/before_clean/economics_data_profile_before_clean.scala
+2023.04.23 18:38:51 WARN  no build target for: /Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code/nicole&seoeun/before_clean/economics_data_profile_before_clean.scala
+2023.04.23 18:38:50 WARN  no build target for: /Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code/nicole&seoeun/before_clean/economics_data_profile_before_clean.scala
+2023.04.23 18:38:51 WARN  no build target for: /Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code/nicole&seoeun/before_clean/economics_data_profile_before_clean.scala
+2023.04.23 18:38:51 WARN  no build target for: /Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code/nicole&seoeun/before_clean/economics_data_profile_before_clean.scala
+2023.04.23 18:38:52 WARN  no build target for: /Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code/nicole&seoeun/before_clean/economics_data_profile_before_clean.scala
+2023.04.23 18:38:52 WARN  no build target for: /Users/seoeunhong/Desktop/NYU/Spring2023/BigData/finalCodeDrop/profiling_code/nicole&seoeun/before_clean/economics_data_profile_before_clean.scala
+2023.04.23 18:40:00 INFO  Shutting down server
+2023.04.23 18:40:00 INFO  shutting down Metals
+2023.04.23 18:40:00 INFO  Exiting server
