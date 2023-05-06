@@ -1,4 +1,4 @@
-# FINAL CODE DROP
+# Exploring the Relationship Between Housing Environment and Children's Lead Exposure
 
 ## 1. File Directories and Files
 
@@ -121,9 +121,3 @@
    ```
 
 3. After running this command, you will see the results of this profile on the hive shell
-
-We put our original input data into `originalDataSets` directory and cleaned input data into `finalCode` directory. 
-
-![Screenshot 2023-04-23 at 9 00 53 PM](https://user-images.githubusercontent.com/75988952/233877536-88c41fb3-e55b-4250-97a1-a11ae932ec0d.png)
-
-![Screenshot 2023-04-23 at 4 19 19 PM](https://user-images.githubusercontent.com/75988952/233864191-178f2cd8-40f0-4e5d-8de5-4d3e29600412.png)
